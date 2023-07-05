@@ -60,3 +60,6 @@ apt-get -y install kubelet
 apt-mark hold docker-ce kubelet kubeadm
 
 systemctl enable kubelet
+
+echo 
+echo "finish install"
