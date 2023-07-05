@@ -116,4 +116,4 @@ echo
 kubeadm token create --print-join-command
 
 echo 
-echo "finish install"
+echo "finish install" 
